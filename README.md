@@ -1,11 +1,8 @@
-# EnigmaboxNewIdentity
-Change your cjdns Identity (Public-Key, Private-Key and IPv6)
-
-
 Enigmabox New Identity v1.0
 ============================
 
 Let you change your Identity on the Enigmabox Router.
+Change your cjdns Identity (Public-Key, Private-Key and IPv6)
 
 
 Installation:
