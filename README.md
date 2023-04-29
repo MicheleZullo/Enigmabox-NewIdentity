@@ -19,5 +19,3 @@ Warning:
 Dont forget to inform your inbound Connections about the changed IPv6 address.
 
 Its stongly advised to create a Backup of the System first!
-
-Enjoy.
